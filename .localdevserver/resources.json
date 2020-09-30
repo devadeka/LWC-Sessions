@@ -755,5 +755,81 @@
         "component://c/publicMethodChild@en-US": {
             "dev": "fe1198d6cf"
         }
+    },
+    "d32fdeb19d": {
+        "component://@webruntime/app@en-US": {
+            "dev": "3917909a35"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "1adcc89400"
+        },
+        "component://c/publicMethodParent@en-US": {
+            "dev": "bb4d4371ce"
+        },
+        "component://c/publicMethodChild@en-US": {
+            "dev": "fe1198d6cf"
+        }
+    },
+    "a5efb823fd": {
+        "component://@webruntime/app@en-US": {
+            "dev": "3917909a35"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "1adcc89400"
+        },
+        "component://c/publicMethodParent@en-US": {
+            "dev": "bb4d4371ce"
+        },
+        "component://c/publicMethodChild@en-US": {
+            "dev": "fe1198d6cf"
+        }
+    },
+    "f948cee582": {
+        "component://@webruntime/app@en-US": {
+            "dev": "3917909a35"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "1adcc89400"
+        },
+        "component://c/publicMethodParent@en-US": {
+            "dev": "bb4d4371ce"
+        },
+        "component://c/publicMethodChild@en-US": {
+            "dev": "fe1198d6cf"
+        }
+    },
+    "f38811ecf3": {
+        "component://@webruntime/app@en-US": {
+            "dev": "ede600bfef"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "1adcc89400"
+        },
+        "component://c/publicMethodParent@en-US": {
+            "dev": "bb4d4371ce"
+        },
+        "component://c/publicMethodChild@en-US": {
+            "dev": "fe1198d6cf"
+        }
+    },
+    "d4e10bc61f": {
+        "component://@webruntime/app@en-US": {
+            "dev": "ede600bfef"
+        },
+        "component://localdevserver/preview@en-US": {
+            "dev": "1adcc89400"
+        },
+        "component://c/publicMethodParent@en-US": {
+            "dev": "bb4d4371ce"
+        },
+        "component://c/publicMethodChild@en-US": {
+            "dev": "fe1198d6cf"
+        },
+        "component://localdevserver/home@en-US": {
+            "dev": "c0efafa63a"
+        },
+        "component://c/lifeCycleDemo@en-US": {
+            "dev": "d6c8ac1da4"
+        }
     }
 }
