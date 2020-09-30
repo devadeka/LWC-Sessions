@@ -1,0 +1,1 @@
+{"errors":[{"filename":"/Users/ddeka/Documents/DevWork/lwc/LWCUdemy/LWC Sessions/force-app/main/default/lwc/meetinRooms/meetinRooms.html","location":{"line":7,"column":7,"start":224,"length":98},"code":"","message":"<lightning-tile> has no matching closing tag."}]}
