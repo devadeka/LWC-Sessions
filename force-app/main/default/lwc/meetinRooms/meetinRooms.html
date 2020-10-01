@@ -5,11 +5,7 @@
         <ul>
           <template for:each={meetinRoomsInfo} for:item="room">
             <li key={room.roomName} style="padding: 10px">
-              <c-meeting-room
-                meeting-room-info={room}
-                show-room-info
-                ontileclick={onTileSelectHandler}
-              >
+              <c-meeting-room meeting-room-info={room} show-room-info>
               </c-meeting-room>
             </li>
           </template>
