@@ -10,8 +10,7 @@ export default class AccontManagerLDS extends LightningElement {
 
   @track recordId;
 
-  @wire(getRecord, { recordId: "$recordId", fields: fieldArray })
-  accountRecord;
+  @wire(getRecord, { recordId: "$recordId", fields: fieldArray }) accountRecord;
 
   accountNameChangeHandler(event) {
     this.accountName = event.target.value;
